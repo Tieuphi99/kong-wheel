@@ -58,3 +58,43 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Custom
+Thumbs.db
+Thumbs.db.meta
+
+*.DS_Store
+*.hxtypes
+*.idea
+*.iml
+*.lnk
+*.n
+*.pidb
+*.pyc
+*.pyc.meta
+*.suo
+*.swp
+*.user
+*.userprefs
+*.vsp
+*.unity3d
+
+*.lo
+*.la
+*.rej
+*.csproj.DotSettings
+*.csproj.DotSettings.meta
+*.csproj.meta
+*.unityproj
+
+# Editors
+.vs
+.vscode
+
+.vs
+.vscode
+*.sln
+*.csproj
+UnityVS.unity.sln.DotSettings
+Library
+Temp
+Logs
